@@ -1,0 +1,1 @@
+I will provide you with a resume and a job description. Update the resume to tailor it specifically to the job description, improving alignment with the required skills, experiences, and keywords. Output only the updated resume and nothing else—no explanations, summaries, or extra comments.

@@ -1,0 +1,39 @@
+## Full Stack Engineer
+
+### Contact Information
+- Email: [your email]
+- Phone: [your phone number]
+- LinkedIn: [your LinkedIn profile]
+
+### Summary
+Highly motivated and experienced full stack engineer with a strong background in Typescript and a passion for AI and large language models (LLMs). Proven track record of shipping products daily, with a relentless drive to solve ambiguous problems autonomously. Skilled in product building, with a keen eye for detail and a customer-obsessed mindset.
+
+### Technical Skills
+- Programming languages: Typescript, JavaScript
+- Development frameworks: Full stack development with expertise in web development and infra
+- AI/ML: Experience with large language models (LLMs) and demonstrated skill in AI-related projects
+- Tools: Create.xyz, with insights on future development and improvement
+- Operating Systems: Proficient in working with various operating systems, including those used in onsite work environments
+
+### Professional Experience
+#### Full Stack Engineer
+- **Company Name**, San Francisco, CA
+  - Dates of Employment: [start date] - [end date]
+  - Utilized Typescript for full stack production, ensuring high-quality and efficient code
+  - Collaborated with cross-functional teams to push the boundaries of what's possible with LLMs, focusing on web development, infra, and model advancement
+  - Demonstrated product building skills through the development of impressive projects, both personally and professionally
+  - Worked onsite, contributing to an energizing in-person culture and leveraging radical autonomy to drive project success
+
+#### Personal Projects
+- **Project Name**, [project dates]
+  - Developed and launched [project description], showcasing expertise in AI and full stack development
+  - Utilized create.xyz, providing valuable insights into its capabilities and areas for future development
+
+### Education
+- **Degree**, **Field of Study**, **University Name**, **Graduation Date**
+
+### Certifications
+- **Certification Name**, **Issuing Organization**, **Date**
+
+### References
+Available upon request.
